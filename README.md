@@ -1,6 +1,6 @@
 # Bader and Fragment Analysis Scripts
 
-[[DOI](https://doi.org/10.5281/zenodo.17427520)
+[DOI](https://doi.org/10.5281/zenodo.17427520)
 
 This repository contains two Python scripts developed for analyzing output data from **Gaussian 16** and **Multiwfn**.  
 They facilitate the extraction and processing of **Bader partial charges** and **fragment orbital energy contributions** for a set of conjugated oligomer systems.
